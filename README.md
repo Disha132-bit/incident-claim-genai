@@ -57,6 +57,7 @@
 
 🛠️ Installation & Setup
     Make sure you have Python 3.8+ and pip installed.
+    
     1. Clone the repository:
         git clone https://github.com/your-username/insurance-claim-genai.git
         
