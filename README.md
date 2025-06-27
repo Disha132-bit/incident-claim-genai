@@ -10,25 +10,23 @@
 
 🗂️ Folder Structure
     insurance-claim-genai/
-    │
-    ├── app/
-    │   ├── main.py                # Streamlit navigation entry point
-    │   ├── pages/
-    │   │   ├── 1_Upload.py        # Claim file upload + analysis
-    │   │   ├── 2_Reports.py       # Analytics report (charts, stats)
-    │   │   ├── 3_About.py         # About the app
-    │   │   ├── 4_Product_Recommendation.py
-    │   │   ├── 5_Risk_Assessment.py
-    │   │   └── 6_Customer_Agent.py
-    │
-    ├── backend/
-    │   ├── claim_parser.py        # Regex-based claim field extractor
-    │   ├── fraud_checker.py       # Simple fraud rule engine
-    │   └── summarizer.py          # LLaMA summary generation
-    │
-    ├── sample_claims/             # Sample .txt files for testing
-    ├── README.md                  # You're here!
-    └── requirements.txt           # Required Python packages
+        app/
+            main.py
+            pages/
+                1_Upload.py       
+                2_Reports.py
+                3_About.py        
+                4_Product_Recommendation.py
+                5_Risk_Assessment.py
+                6_Customer_Agent.py
+    
+        backend/
+            claim_parser.py       
+            fraud_checker.py
+            summarizer.py          
+            sample_claims/             
+            README.md                  
+        requirements.txt          
 
 
 🚀 Features
@@ -63,6 +61,7 @@
     Make sure you have Python 3.8+ and pip installed.
     1. Clone the repository:
         git clone https://github.com/your-username/insurance-claim-genai.git
+        
         cd insurance-claim-genai
 
     2. Install dependencies
