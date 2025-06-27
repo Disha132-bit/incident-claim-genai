@@ -1,0 +1,4 @@
+Policy Number: PQR11223
+Claimant Name: Alok Verma
+Claim Amount: ₹60000
+Date of Incident: 2024-01-25

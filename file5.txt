@@ -1,0 +1,5 @@
+Policy Number: DEF67890
+Claimant Name: Rina Mehta
+Claim Amount: ₹25000
+Date of Incident: 2024-11-10
+Claim Reason: Minor water leakage in the kitchen

@@ -1,0 +1,5 @@
+Policy Number: XYZ54321
+Claimant Name: Ravi Singh
+Claim Amount: ₹200000
+Date of Incident: 2023-09-14
+Claim Reason: Theft of insured vehicle

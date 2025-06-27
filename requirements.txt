@@ -1,0 +1,6 @@
+streamlit
+openai
+transformers==4.40.1
+langchain
+pytesseract
+pillow

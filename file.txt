@@ -1,0 +1,5 @@
+Policy Number: ABC12345
+Claimant Name: Disha Waghmare
+Claim Amount: 50000
+Date of Incident: 2024-12-01
+Claim Reason: Accident damage to vehicle
