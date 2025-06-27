@@ -4,3 +4,7 @@ transformers==4.40.1
 langchain
 pytesseract
 pillow
+plotly
+scikit-learn
+pandas
+torch
