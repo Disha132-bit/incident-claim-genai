@@ -19,13 +19,11 @@
                 4_Product_Recommendation.py
                 5_Risk_Assessment.py
                 6_Customer_Agent.py
-    
         backend/
             claim_parser.py       
             fraud_checker.py
-            summarizer.py          
-            sample_claims/             
-            README.md                  
+            summarizer.py                       
+        README.md                  
         requirements.txt          
 
 
