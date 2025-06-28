@@ -1,4 +1,5 @@
-🛡️ Insurance Claim GenAI Assistant
+🛡️ Insurance Claim GenAI Assistant:
+
     This is an AI-powered insurance assistant platform that supports various intelligent agents to help streamline insurance workflows using GenAI (TinyLLaMA / DistilGPT2 / Transformers). Built using Streamlit, it supports:
 
     ✅ Claim extraction
@@ -28,7 +29,8 @@
         requirements.txt          
 
 
-🚀 Features
+🚀 Features:
+
 1. 📂 Upload & Analyze Claims
     Upload multiple .txt claim files
     Extracts: Claimant Name, Policy Number, Claim Amount, Date, Reason
