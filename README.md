@@ -98,7 +98,6 @@
     Add database (SQLite or Firebase) for storing uploaded claims
     Add claim approval probability using classification model
     Export reports as PDF or Excel
-    Add chatbot UI for customer agent
     Mobile-friendly UI
 
 👩‍💻 Built With:
