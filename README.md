@@ -91,20 +91,22 @@
 | ⚖️ Risk Assessment Agent     | Analyzes risk from user info        |
 
 
-✨ Future Work
+✨ Future Work:
+
     Add database (SQLite or Firebase) for storing uploaded claims
     Add claim approval probability using classification model
     Export reports as PDF or Excel
     Add chatbot UI for customer agent
     Mobile-friendly UI
 
-👩‍💻 Built With
+👩‍💻 Built With:
+
     Python 3.10
     Streamlit
     HuggingFace Transformers (TinyLLaMA / DistilGPT2)
     Pandas, Plotly
     Regex, Rule Engines
 
-📬 Contact
-    Made with 💙 by Disha Waghmare  
-    📧 Reach me for suggestions or collaborations
+📬 Contact:
+
+    Made by Disha Waghmare  
