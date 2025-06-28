@@ -8,7 +8,8 @@
     ✅ Risk assessment
     ✅ Customer support Q&A
 
-🗂️ Folder Structure
+🗂️ Folder Structure:
+
     insurance-claim-genai/
         app/
             main.py
