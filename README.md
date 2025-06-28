@@ -71,7 +71,7 @@
         streamlit run app/main.py
 
 
-📁 Sample Claim File Format (.txt)
+📁 Sample Claim File Format (.txt):
     Each file should contain structured plain text:
         Policy Number: ABC12345
         Claimant Name: Disha Waghmare
